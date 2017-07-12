@@ -1,0 +1,13 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ASP.NET MVC Music Store",
+    "CacheDbResults": true
+  },
+  "DefaultAdminUsername": "Administrator@test.com",
+  "DefaultAdminPassword": "YouShouldChangeThisPassword1!",
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=<replaceserver>.database.windows.net;Database=MusicStore;Integrated Security=False;User Id=<replaceuser>;Password=<replacepass>;MultipleActiveResultSets=True;Connect Timeout=240"
+    }
+  }
+}
